@@ -36,8 +36,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
