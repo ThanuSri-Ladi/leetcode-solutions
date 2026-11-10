@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
