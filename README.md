@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ThanuSri-Ladi/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Sorting
